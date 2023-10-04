@@ -1,0 +1,198 @@
+Habit,Date,Value,Unit,Memo,Tag,Habit Type
+Running (min),2023-09-01,0,min,,,Build
+Running (min),2023-09-03,45,min,,,Build
+Running (min),2023-09-05,30,min,,,Build
+Running (min),2023-09-08,30,min,,,Build
+Running (min),2023-09-12,30,min,,,Build
+Running (min),2023-09-14,30,min,,,Build
+Running (min),2023-09-15,38,min,,,Build
+Running (min),2023-09-17,28,min,,,Build
+Running (min),2023-09-19,30,min,,,Build
+Running (min),2023-09-20,30,min,,,Build
+Running (min),2023-09-22,30,min,,,Build
+Running (min),2023-09-24,49,min,,,Build
+Running (min),2023-09-27,30,min,,,Build
+Running (min),2023-09-29,32,min,,,Build
+Schoolwork (min),2023-09-01,30,min,,,Build
+Schoolwork (min),2023-09-05,94,min,,,Build
+Schoolwork (min),2023-09-06,56,min,,,Build
+Schoolwork (min),2023-09-07,133,min,,,Build
+Schoolwork (min),2023-09-09,161,min,,,Build
+Schoolwork (min),2023-09-10,152,min,,,Build
+Schoolwork (min),2023-09-11,100,min,,,Build
+Schoolwork (min),2023-09-12,174,min,,,Build
+Schoolwork (min),2023-09-13,25,min,,,Build
+Schoolwork (min),2023-09-14,116,min,,,Build
+Schoolwork (min),2023-09-15,200,min,,,Build
+Schoolwork (min),2023-09-18,113,min,,,Build
+Schoolwork (min),2023-09-19,124,min,,,Build
+Schoolwork (min),2023-09-20,39,min,,,Build
+Schoolwork (min),2023-09-21,178,min,,,Build
+Schoolwork (min),2023-09-23,76,min,,,Build
+Schoolwork (min),2023-09-24,135,min,,,Build
+Schoolwork (min),2023-09-25,56,min,,,Build
+Schoolwork (min),2023-09-26,173,min,,,Build
+Schoolwork (min),2023-09-27,96,min,,,Build
+Schoolwork (min),2023-09-28,125,min,,,Build
+Schoolwork (min),2023-09-30,207,min,,,Build
+Lifting (min),2023-09-01,60,min,,,Build
+Lifting (min),2023-09-02,65,min,,,Build
+Lifting (min),2023-09-04,50,min,,,Build
+Lifting (min),2023-09-06,49,min,,,Build
+Lifting (min),2023-09-07,35,min,,,Build
+Lifting (min),2023-09-09,20,min,,,Build
+Lifting (min),2023-09-11,45,min,,,Build
+Lifting (min),2023-09-12,26,min,,,Build
+Lifting (min),2023-09-15,30,min,,,Build
+Lifting (min),2023-09-17,20,min,,,Build
+Lifting (min),2023-09-18,50,min,,,Build
+Lifting (min),2023-09-19,60,min,,,Build
+Lifting (min),2023-09-20,30,min,,,Build
+Lifting (min),2023-09-25,60,min,,,Build
+Lifting (min),2023-09-26,46,min,,,Build
+Lifting (min),2023-09-27,40,min,,,Build
+Lifting (min),2023-09-30,30,min,,,Build
+Podcasts & Audiobooks (min),2023-09-17,74,min,,,Build
+Podcasts & Audiobooks (min),2023-09-19,88,min,,,Build
+Podcasts & Audiobooks (min),2023-09-20,46,min,,,Build
+Podcasts & Audiobooks (min),2023-09-21,50,min,,,Build
+Podcasts & Audiobooks (min),2023-09-25,15,min,,,Build
+Podcasts & Audiobooks (min),2023-09-28,40,min,,,Build
+Do Not Feed Addictions (T/F),2023-09-01,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-02,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-03,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-04,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-05,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-06,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-07,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-08,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-10,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-11,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-12,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-13,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-14,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-15,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-16,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-18,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-19,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-20,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-21,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-22,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-23,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-24,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-26,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-27,1,Yes,,,Build
+Do Not Feed Addictions (T/F),2023-09-30,1,Yes,,,Build
+Cold Shower (T/F),2023-09-02,1,Yes,,,Build
+Cold Shower (T/F),2023-09-03,1,Yes,,,Build
+Cold Shower (T/F),2023-09-04,1,Yes,,,Build
+Cold Shower (T/F),2023-09-05,1,Yes,,,Build
+Cold Shower (T/F),2023-09-06,1,Yes,,,Build
+Cold Shower (T/F),2023-09-07,1,Yes,,,Build
+Cold Shower (T/F),2023-09-08,1,Yes,,,Build
+Cold Shower (T/F),2023-09-09,1,Yes,,,Build
+Cold Shower (T/F),2023-09-10,1,Yes,,,Build
+Cold Shower (T/F),2023-09-11,1,Yes,,,Build
+Cold Shower (T/F),2023-09-12,1,Yes,,,Build
+Cold Shower (T/F),2023-09-13,1,Yes,,,Build
+Cold Shower (T/F),2023-09-14,1,Yes,,,Build
+Cold Shower (T/F),2023-09-15,1,Yes,,,Build
+Cold Shower (T/F),2023-09-16,1,Yes,,,Build
+Cold Shower (T/F),2023-09-18,1,Yes,,,Build
+Cold Shower (T/F),2023-09-19,1,Yes,,,Build
+Cold Shower (T/F),2023-09-20,1,Yes,,,Build
+Cold Shower (T/F),2023-09-21,1,Yes,,,Build
+Cold Shower (T/F),2023-09-22,1,Yes,,,Build
+Cold Shower (T/F),2023-09-23,1,Yes,,,Build
+Cold Shower (T/F),2023-09-24,1,Yes,,,Build
+Cold Shower (T/F),2023-09-25,1,Yes,,,Build
+Cold Shower (T/F),2023-09-26,1,Yes,,,Build
+Cold Shower (T/F),2023-09-27,1,Yes,,,Build
+Cold Shower (T/F),2023-09-28,1,Yes,,,Build
+Cold Shower (T/F),2023-09-29,1,Yes,,,Build
+Cold Shower (T/F),2023-09-30,1,Yes,,,Build
+Eat Properly (T/F),2023-09-01,1,Yes,,,Build
+Eat Properly (T/F),2023-09-02,1,Yes,,,Build
+Eat Properly (T/F),2023-09-03,1,Yes,,,Build
+Eat Properly (T/F),2023-09-04,1,Yes,,,Build
+Eat Properly (T/F),2023-09-05,1,Yes,,,Build
+Eat Properly (T/F),2023-09-06,1,Yes,,,Build
+Eat Properly (T/F),2023-09-07,1,Yes,,,Build
+Eat Properly (T/F),2023-09-08,1,Yes,,,Build
+Eat Properly (T/F),2023-09-10,1,Yes,,,Build
+Eat Properly (T/F),2023-09-11,1,Yes,,,Build
+Eat Properly (T/F),2023-09-12,1,Yes,,,Build
+Eat Properly (T/F),2023-09-13,1,Yes,,,Build
+Eat Properly (T/F),2023-09-14,1,Yes,,,Build
+Eat Properly (T/F),2023-09-15,1,Yes,,,Build
+Eat Properly (T/F),2023-09-16,1,Yes,,,Build
+Eat Properly (T/F),2023-09-18,1,Yes,,,Build
+Eat Properly (T/F),2023-09-19,1,Yes,,,Build
+Eat Properly (T/F),2023-09-20,1,Yes,,,Build
+Eat Properly (T/F),2023-09-21,1,Yes,,,Build
+Eat Properly (T/F),2023-09-22,1,Yes,,,Build
+Eat Properly (T/F),2023-09-23,1,Yes,,,Build
+Eat Properly (T/F),2023-09-24,1,Yes,,,Build
+Eat Properly (T/F),2023-09-25,1,Yes,,,Build
+Eat Properly (T/F),2023-09-26,1,Yes,,,Build
+Eat Properly (T/F),2023-09-27,1,Yes,,,Build
+Eat Properly (T/F),2023-09-28,1,Yes,,,Build
+Eat Properly (T/F),2023-09-29,1,Yes,,,Build
+Eat Properly (T/F),2023-09-30,1,Yes,,,Build
+Developing Technical Skills (min),2023-09-01,155,min,,,Build
+Developing Technical Skills (min),2023-09-02,60,min,,,Build
+Developing Technical Skills (min),2023-09-03,60,min,,,Build
+Developing Technical Skills (min),2023-09-04,233,min,,,Build
+Developing Technical Skills (min),2023-09-05,70,min,,,Build
+Developing Technical Skills (min),2023-09-06,45,min,,,Build
+Developing Technical Skills (min),2023-09-07,34,min,,,Build
+Developing Technical Skills (min),2023-09-08,191,min,,,Build
+Developing Technical Skills (min),2023-09-10,36,min,,,Build
+Developing Technical Skills (min),2023-09-12,63,min,,,Build
+Developing Technical Skills (min),2023-09-13,15,min,,,Build
+Developing Technical Skills (min),2023-09-14,46,min,,,Build
+Developing Technical Skills (min),2023-09-15,110,min,,,Build
+Developing Technical Skills (min),2023-09-16,45,min,,,Build
+Developing Technical Skills (min),2023-09-17,60,min,,,Build
+Developing Technical Skills (min),2023-09-18,22,min,,,Build
+Developing Technical Skills (min),2023-09-20,15,min,,,Build
+Developing Technical Skills (min),2023-09-21,15,min,,,Build
+Developing Technical Skills (min),2023-09-22,63,min,,,Build
+Developing Technical Skills (min),2023-09-23,127,min,,,Build
+Developing Technical Skills (min),2023-09-24,131,min,,,Build
+Developing Technical Skills (min),2023-09-25,270,min,,,Build
+Developing Technical Skills (min),2023-09-26,37,min,,,Build
+Developing Technical Skills (min),2023-09-27,15,min,,,Build
+Developing Technical Skills (min),2023-09-29,7,min,,,Build
+Developing Technical Skills (min),2023-09-30,15,min,,,Build
+Read & Write (min),2023-09-01,38,min,,,Build
+Read & Write (min),2023-09-02,30,min,,,Build
+Read & Write (min),2023-09-03,32,min,,,Build
+Read & Write (min),2023-09-04,30,min,,,Build
+Read & Write (min),2023-09-05,32,min,,,Build
+Read & Write (min),2023-09-06,34,min,,,Build
+Read & Write (min),2023-09-07,8,min,,,Build
+Read & Write (min),2023-09-08,20,min,,,Build
+Read & Write (min),2023-09-11,41,min,,,Build
+Read & Write (min),2023-09-12,44,min,,,Build
+Read & Write (min),2023-09-13,49,min,,,Build
+Read & Write (min),2023-09-15,51,min,,,Build
+Read & Write (min),2023-09-18,49,min,,,Build
+Read & Write (min),2023-09-19,44,min,,,Build
+Read & Write (min),2023-09-20,30,min,,,Build
+Read & Write (min),2023-09-21,13,min,,,Build
+Read & Write (min),2023-09-22,15,min,,,Build
+Read & Write (min),2023-09-23,22,min,,,Build
+Read & Write (min),2023-09-25,15,min,,,Build
+Read & Write (min),2023-09-26,28,min,,,Build
+Read & Write (min),2023-09-27,10,min,,,Build
+Biking (min),2023-09-05,40,min,,,Build
+Biking (min),2023-09-09,75,min,,,Build
+Biking (min),2023-09-10,30,min,,,Build
+Biking (min),2023-09-16,30,min,,,Build
+Biking (min),2023-09-20,30,min,,,Build
+Biking (min),2023-09-22,60,min,,,Build
+Biking (min),2023-09-23,60,min,,,Build
+Biking (min),2023-09-28,45,min,,,Build
+Biking (min),2023-09-30,45,min,,,Build
+Swimming (min),2023-09-13,40,min,,,Build

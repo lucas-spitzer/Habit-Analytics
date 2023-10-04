@@ -1,0 +1,6 @@
+pandas==2.1.0
+plotly==5.16.1
+seaborn==0.12.2
+shiny==0.5.1
+shinywidgets==0.2.1
+quarto==0.1.0
